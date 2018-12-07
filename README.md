@@ -10,9 +10,9 @@ Clone the repo and run `npm install` or `yarn install`.
 
 This is basically a Create React App that contains only three components out of the box:
 
-    1. A `Shell` component 
-    2. A `Header` component
-    3. The `Loader` component
+    1. Shell component 
+    2. Header component
+    3. Loader component
 
 ## PWA Guide
 
