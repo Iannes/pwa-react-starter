@@ -1,3 +1,7 @@
+## Pwa React App Boilerplate
+
+A Create react app that has been set up as a PWA
+
 # Installation
 
 Clone the repo and run `npm install` or `yarn install`.
