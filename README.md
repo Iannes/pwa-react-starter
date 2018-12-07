@@ -1,0 +1,15 @@
+# Installation
+
+Clone the repo and run `npm install` or `yarn install`.
+
+# What's Included
+
+This is basically a Create React App that contains only three components out of the box:
+
+    1. A `Shell` component 
+    2. A `Header` component
+    3. The `Loader` component
+
+# PWA Guide
+
+This contains a `manifest.json` file, as well as icons in all sizes required for Lighthouse to give 100% score in the PWA section. Before deploying make sure you register the service worker on `index.js`.
